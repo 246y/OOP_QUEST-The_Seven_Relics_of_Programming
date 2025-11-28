@@ -1,7 +1,7 @@
 <div align="center">
 
 # ✨ OOP QUEST: The Seven Relics of Programming  
-## **Final Project in CS 2101 — Object-Oriented Programming**
+## **Final Project in CS 211 — Object-Oriented Programming**
 
 ### Developed by  
 **Renz Mariz Carilo**  
@@ -17,7 +17,7 @@
 </div>
 
 ## ⭐ Introduction
-This project, **OOP Quest**, was created as our final requirement in **CS 2101 (Object-Oriented Programming)**. Our goal was to design a system that showcases a clear, meaningful, and fully functional application of the major OOP principles.  
+This project, **OOP Quest**, was created as our final requirement in **CS 211 (Object-Oriented Programming)**. Our goal was to design a system that showcases a clear, meaningful, and fully functional application of the major OOP principles.  
 
 Instead of a traditional demonstration, we developed a **text-based adventure game** that transforms OOP concepts into interactive challenges — making the learning experience more engaging, memorable, and enjoyable.
 
