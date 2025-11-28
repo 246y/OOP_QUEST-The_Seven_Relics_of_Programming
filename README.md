@@ -84,9 +84,9 @@ java Main
 - Interfaces  
 
 ### 🔹 Three-Level Puzzle System
-- **Easy** — recall / multiple choice  
-- **Medium** — T/F or keyword input  
-- **Hard** — conceptual understanding  
+- **Easy** 
+- **Medium** 
+- **Hard**  
 
 ### 🔹 Hint System
 Some relics implement the `Hintable` interface.
