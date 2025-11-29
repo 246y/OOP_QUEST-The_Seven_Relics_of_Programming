@@ -1,4 +1,4 @@
-<div align="center">
+:<div align="center">
 
 # ✨ OOP QUEST: The Seven Relics of Programming  
 ## **Final Project in CS 211 — Object-Oriented Programming**
@@ -33,16 +33,16 @@ This project is designed to make OOP learning more interactive, fun, and easier 
 ## 📂 Project Structure
 ```
 /src
- ├── Hintable.java
+ ├── Hintable.class
  ├── Relic.java
- ├── Player.java
- ├── ClassesRelic.java
- ├── ObjectsRelic.java
- ├── InheritanceRelic.java
- ├── PolymorphismRelic.java
- ├── AbstractionRelic.java
- ├── EncapsulationRelic.java
- ├── InterfacesRelic.java
+ ├── Player.class
+ ├── ClassesRelic.class
+ ├── ObjectsRelic.class
+ ├── InheritanceRelic.class
+ ├── PolymorphismRelic.class
+ ├── AbstractionRelic.class
+ ├── EncapsulationRelic.class
+ ├── InterfacesRelic.class
  └── Main.java
 ```
 
@@ -54,7 +54,7 @@ This project is designed to make OOP learning more interactive, fun, and easier 
 Any terminal or IDE (VSCode, IntelliJ, BlueJ, Command Prompt)
 
 ### Steps
-1. Place all `.java` files in one folder  
+1. Place all files in one folder  
 2. Open terminal in that folder  
 3. Compile:
 
