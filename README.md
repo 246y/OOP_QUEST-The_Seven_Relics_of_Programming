@@ -33,17 +33,19 @@ This project is designed to make OOP learning more interactive, fun, and easier 
 ## 📂 Project Structure
 ```
 /src
- ├── Hintable.class
- ├── Relic.java
- ├── Player.class
- ├── ClassesRelic.class
- ├── ObjectsRelic.class
- ├── InheritanceRelic.class
- ├── PolymorphismRelic.class
  ├── AbstractionRelic.class
+ ├── ClassesRelic.class
  ├── EncapsulationRelic.class
+ ├── Hintable.class
  ├── InterfacesRelic.class
- └── Main.java
+ ├── InheritanceRelic.class
+ ├── Main.class
+ ├── Main.java
+ ├── ObjectsRelic.class
+ ├── Player.class
+ ├── PolymorphismRelic.class
+ ├── Relic.class
+ └── Relic.java
 ```
 
 ---
