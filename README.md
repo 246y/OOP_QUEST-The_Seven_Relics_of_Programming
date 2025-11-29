@@ -137,7 +137,7 @@ Some relics implement `Hintable`.
 
 ```
 ===============================================
-     OOP QUEST: The Seven Relics of Programming
+   OOP QUEST: The Seven Relics of Programming
 ===============================================
 
 Enter your name, brave learner: Baby
