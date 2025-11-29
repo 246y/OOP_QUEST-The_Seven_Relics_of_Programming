@@ -180,11 +180,11 @@ Continue? (Y/n):
 
 ## 👥 Contributors
 
-| Name | Role |
-|------|------|
-| **Renz Mariz Carilo** | ? |
-| **Ivy Emerald Julongbayan** | ? |
-| **Eden Zhaira Resaba** | ? |
+| Name | 
+|------|
+| **Renz Mariz Carilo** | 
+| **Ivy Emerald Julongbayan** | 
+| **Eden Zhaira Resaba** | 
 
 ---
 
