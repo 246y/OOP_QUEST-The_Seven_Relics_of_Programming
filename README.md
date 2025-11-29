@@ -148,20 +148,17 @@ Solve each relic's puzzle to collect it. Type 'H' for a hint.
 --- Entering the Kingdom guarding: Relic of Shadows---
 
 ===== LEVEL: EASY =====
-Question: Which keyword creates an abstract class?
+EASY: "Which keyword creates an abstract class?"
 Your answer: abstract
-Correct!
 
 ===== LEVEL: MEDIUM =====
-Question: True or False — Abstract classes may contain abstract methods.
+MEDIUM: "True or False — Abstract classes may contain abstract methods."
 Your answer: true
-Correct!
 
 ===== LEVEL: HARD =====
-Question: Which provides 100% abstraction?
+HARD: "Which provides 100% abstraction?"
+A)Class         B) Interface
 Your answer: B
-Correct!
-
 You have collected 1 relic(s): [Relic of Shadows (Abstraction) ]
 Continue to next kingdom? (Y/n):
 ```
