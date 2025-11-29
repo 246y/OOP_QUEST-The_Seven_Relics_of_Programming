@@ -140,29 +140,30 @@ Some relics implement `Hintable`.
      OOP QUEST: The Seven Relics of Programming
 ===============================================
 
-Enter your name: Baby
+Enter your name, brave learner: Baby
 
-Welcome, Baby. Your quest begins.
+Hello Baby! Your quest: recover the seven OOP relics.
+Solve each relic's puzzle to collect it. Type 'H' for a hint.
 
---- Entering the Kingdom of Abstraction ---
+--- Entering the Kingdom guarding: Relic of Shadows---
 
-===== EASY =====
+===== LEVEL: EASY =====
 Question: Which keyword creates an abstract class?
 Your answer: abstract
 Correct!
 
-===== MEDIUM =====
+===== LEVEL: MEDIUM =====
 Question: True or False — Abstract classes may contain abstract methods.
 Your answer: true
 Correct!
 
-===== HARD =====
+===== LEVEL: HARD =====
 Question: Which provides 100% abstraction?
 Your answer: B
 Correct!
 
-You have collected the Relic of Shadows.
-Continue? (Y/n):
+You have collected 1 relic(s): [Relic of Shadows (Abstraction) ]
+Continue to next kingdom? (Y/n):
 ```
 
 ---
