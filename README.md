@@ -37,8 +37,8 @@ This project is designed to make OOP learning more interactive, fun, and easier 
  ├── ClassesRelic.class
  ├── EncapsulationRelic.class
  ├── Hintable.class
- ├── InterfacesRelic.class
  ├── InheritanceRelic.class
+ ├── InterfacesRelic.class
  ├── Main.class
  ├── Main.java
  ├── ObjectsRelic.class
