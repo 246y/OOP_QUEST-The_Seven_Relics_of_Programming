@@ -26,7 +26,7 @@ Instead of a traditional demonstration, we developed a **text-based adventure ga
 ## ⭐ Overview
 **OOP Quest** is a Java-based, text-driven adventure game where the player travels across seven kingdoms to collect the **Seven Relics of OOP**. Each relic represents a core Object-Oriented Programming concept, and players must complete **Easy**, **Medium**, and **Hard** puzzles to obtain each one.
 
-This project is designed to make OOP learning more interactive, fun, and easier to understand.
+This project is designed to make OOP learning more interactive, fun, and easier to understand. It is intended for **educational use**, especially for students taking **Java programming** courses. Teachers and professors can use this game as a **final activity**, **quiz**, or **enrichment task**, allowing students to demonstrate their understanding of OOP principles. Students who complete the entire game and collect all seven relics may also receive **bonus points**, **additional grades**, or **extra credit**, depending on the instructor’s discretion.
 
 ---
 
