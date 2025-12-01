@@ -4,8 +4,6 @@ public class Main {
     private static Scanner sc = new Scanner(System.in);
     private static Player player;
 
-    private static final Map<String, String> answerSheet = new LinkedHashMap<>();
-
     public static void main(String[] args) {
         welcome();
         String playerName = prompt("Enter your name, brave learner: ");
